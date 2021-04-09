@@ -1,2 +1,2 @@
 # MiSTerManual
-Instruction to get started using the various computers/consoles supported by MiSTer FPGA
+Instructions to get started using the various computers/consoles supported by MiSTer FPGA.
